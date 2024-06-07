@@ -69,5 +69,5 @@ console.log(1 + 3 + "2");//if the string value of number is in the last & number
 
 
 let gameCounter = 100;
-++gameCounter;
-console.log(gameC)
+gameCounter++;
+console.log(gameCounter);
