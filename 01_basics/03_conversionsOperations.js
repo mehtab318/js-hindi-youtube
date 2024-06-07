@@ -41,6 +41,8 @@ let score = "33abc";
 
 
 
+
+
 // **************OPERATIONS******************
 
 let value = 3
@@ -62,3 +64,10 @@ console.log("1" + "2");
 console.log(1 + "2");
 console.log("1" + 3 + 2);//if the string value is first it will treat as string and then will add the other number with it.
 console.log(1 + 3 + "2");//if the string value of number is in the last & number is first it will treat means perform addition operation and then will add the string value
+
+
+
+
+let gameCounter = 100;
+++gameCounter;
+console.log(gameC)
