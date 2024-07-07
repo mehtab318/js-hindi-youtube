@@ -27,7 +27,7 @@
 // example of primitive datatype=>
 
 // string 
-const stringValue = mehtab ;
+const stringValue = "mehtab" ;
 console.log(typeof stringValue)
 
 
