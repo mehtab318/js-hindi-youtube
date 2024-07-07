@@ -27,8 +27,8 @@
 // example of primitive datatype=>
 
 // string 
-const  = ;
-console.log(typeof bigNumber )
+const stringValue = mehtab ;
+console.log(typeof stringValue)
 
 
 // *****************non-primitive*****************
