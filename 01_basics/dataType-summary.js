@@ -27,7 +27,7 @@
 // example of primitive datatype=>
 
 // string 
-const stringValue = "mehtab" ;
+const stringValue = "mehtab";
 console.log(typeof stringValue)
 
 
@@ -36,7 +36,22 @@ console.log(typeof stringValue)
 
 
 // 1.array
+const myFunction = ["mehtab", "rehman", "nohman"]
+console.log(typeof myFunction)
+
+
+
 // 2.object
+let myobj = {
+    name: "mehtabsiddiqui",
+    age: 20,
+}
+console.log(typeof myobj)
+
+
+
 // 3.function
-
-
+const myfunction = function () {
+    console.log("hello world")
+}
+console.log(typeof myfunction)
