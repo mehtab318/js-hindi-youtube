@@ -13,9 +13,27 @@ const gamename = new String('mehtab-hc')
 // console.log(gamename.charAt(2))
 // console.log(gamename.indexOf('t'))
 
-const newstring = gamename.substring(0, 4)
-console.log(newstring)
 
 
-const anotherstring = gamename.slice(-8, 4) //we can give values in .slice in negative values
-console.log(anotherstring)
+// const newstring = gamename.substring(0, 4)
+// console.log(newstring)
+// const anotherstring = gamename.slice(-8, 4) //we can give values in .slice in negative values
+// console.log(anotherstring)
+
+
+
+const newstring = "     hitesh    "
+// console.log(newstring)
+// console.log(newstring.trimStart())
+// console.log(newstring.trimEnd())
+
+
+
+const url = "https://hitesh.com/hitesh%20choudhary"
+console.log(url.replace('%hitesh', 'mehtab'))
+
+
+let a = {
+    name: "mehtab",
+    language: 'javascript',
+}
