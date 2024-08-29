@@ -63,25 +63,25 @@
 // 1.stack(primitive):-
 
 
-let firstname = "mehtab"
+// let firstname = "mehtab"
 
-let secondname = firstname
-secondname = "rehman"
-console.log(secondname)
-console.log(firstname)
+// let secondname = firstname
+// secondname = "rehman"
+// console.log(secondname)
+// console.log(firstname)
 
 // 2.heap(non-primitive):-
 
 
-let userone = {
-    email:"user@google.com",
-    upi:"99678@ybl",
-}
+// let userone = {
+//     email:"user@google.com",
+//     upi:"99678@ybl",
+// }
 
-let usertwo = userone
-usertwo.email = "mehtabsiddiqui900@gmail.com"
-usertwo.upi = "8356089203@ybl"
-console.log(userone.email)
-console.log(userone.upi)
-console.log(usertwo.email)
-console.log(usertwo.upi)
+// let usertwo = userone
+// usertwo.email = "mehtabsiddiqui900@gmail.com"
+// usertwo.upi = "8356089203@ybl"
+// console.log(userone.email)
+// console.log(userone.upi)
+// console.log(usertwo.email)
+// console.log(usertwo.upi)
