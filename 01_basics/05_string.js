@@ -42,6 +42,19 @@
 // *********************************Date:-29/08/24*************************************************
 
 // STRING
-const name = "mehtab"
-const repocount = 40
-console.log(`hello my name is ${name} and my repocount is ${repocount}`)//this is string interpolation method to concatinate strings
+// const name = "mehtab"
+// const repocount = 40
+// console.log(`hello my name is ${name} and my repocount is ${repocount}`)
+//this is string interpolation method to concatinate strings
+
+const gameName = new String('hiteshhc')
+console.log(gameName.indexOf('t'))
+
+
+// const landName = new String('MEHTAB')
+// console.log(landName.toLowerCase())
+
+// const computer = new String('     phoenix')
+// console.log(computer)
+// console.log(computer.trimStart())
+
